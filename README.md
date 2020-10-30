@@ -11,7 +11,7 @@
 
 ## What I'm Working on
 - :house: Software Engineer at realtor.com
-- 👩🏻‍🏫 [The Littlest Code]() - A website for students to get code ideas for final projects
-- :pencil: Writing on [my blog]()
+- 🖤 [DiversityCorp](https://github.com/DiversityCorp/companies-on-blm) - An open source project I created and maintain to collect corporate statements in support of Black Lives Matter.
+- :pencil: Writing on [my blog]() ⚠️ Under Construction ⚠️
 
 ## 🧚🏻‍♀️ Github Drop ICE ✨
